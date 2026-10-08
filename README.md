@@ -1,4 +1,4 @@
-# SCybersecurity Attack Chain & C2 Demonstration
+# Cybersecurity Attack Chain & C2 Demonstration
  
 > **Educational purposes only.** This project was developed as part of a college cybersecurity course to demonstrate how spyware operates at a conceptual and technical level. It is not intended for, and should not be used for, any real-world deployment.
  
