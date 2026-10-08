@@ -1,4 +1,4 @@
-# SpywareDemo — Academic Security Project
+# SCybersecurity Attack Chain & C2 Demonstration
  
 > **Educational purposes only.** This project was developed as part of a college cybersecurity course to demonstrate how spyware operates at a conceptual and technical level. It is not intended for, and should not be used for, any real-world deployment.
  
@@ -75,17 +75,3 @@ pynput
 pyautogui
 Pillow
 ```
- 
----
- 
-## What We Learned
- 
-- How spyware components fit together as an attack chain
-- TCP socket programming and binary protocol design
-- How social engineering (fake websites) lowers the barrier to infection
-- Why VM detection and persistence are what make spyware dangerous in the real world (and why we removed them from this demo)
----
- 
-## Course Context
- 
-This was developed as a project at VIT University in 2025.  
